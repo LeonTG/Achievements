@@ -1,0 +1,9 @@
+name: Achievements
+main: com.leontg77.achievements.Main
+version: 1.0
+author: LeonTG77
+description: In achievements everytime you get an achievement you get 1 extra half heart.
+
+commands:
+  achievements:
+    description: Manager the scenario.
